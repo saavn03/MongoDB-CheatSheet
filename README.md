@@ -1,6 +1,6 @@
 # MongoDB Cheat Sheet 2022
 
-> MongoDB <
+> MongoDB 
 
 ## Table of Contents
 - [Check `monosh` Version](#check-monosh-version)
